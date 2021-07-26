@@ -1,4 +1,4 @@
-**👋 hi im cole**
+**👋 hi im cole** 
 *a 14-yr old full-stack engineer*
 
 🔗 https://coleh.xyz
