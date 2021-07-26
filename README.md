@@ -1,7 +1,5 @@
-# hi 👋
-i'm cole, a full-stack developer based in southeast west virginia
+**👋 hi im cole**
+*a 14-yr old full-stack engineer*
 
-## contact 📬
-you can contact me via email (``me@coleh.xyz``), discord (``cole#7629``) or matrix (``@colenh:matrix.org``)!
-
-[more info on my site](https://coleh.xyz) <3
+🔗 https://coleh.xyz
+📧 `me@coleh.xyz`
