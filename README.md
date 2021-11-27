@@ -1,5 +1,3 @@
-**👋 hi im cole**  
-*a 14-yr old full-stack developer*  
-
+**👋 hi im cole**   
 🔗 https://coleh.lol  
-📧 `me@coleh.xyz`
+📧 `me@coleh.lol`
