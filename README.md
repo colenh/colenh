@@ -1,3 +1,3 @@
 **cole harris**\
-my profile has been migrated to codeberg\
-find my profile [here](https://codeberg.org/coleharris) and read why [here](https://colenh.dev/blog/codeberg)
+inactive here, find me on [codeberg](https://codeberg.org/coleharris)\
+read why [here](https://colenh.dev/blog/codeberg)
