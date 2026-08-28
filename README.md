@@ -1,3 +1,3 @@
 **cole harris**\
-inactive here, find me on [codeberg](https://codeberg.org/coleharris)\
-read why [here](https://colenh.dev/blog/codeberg)
+inactive here, find me on [codefloe](https://codeberg.org/cole)\
+check out my portfolio [here](https://colenh.dev)
